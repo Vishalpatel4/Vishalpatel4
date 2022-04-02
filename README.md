@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Patel
-- 👀 I’m interested in wirting script & automated the stuff 
+- 👀 I'm interested in writing script to automate the stuff
 - 🌱 I’m currently learning <b>Django, DRF</b>
 
 <!---
